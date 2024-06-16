@@ -1,0 +1,12 @@
+```yaml
+- name: Pig
+  description: A pink pig with a curly tail.
+- name: Cow
+  description: A brown cow with white spots.
+- name: Bull
+  description: A red bull with a gold ring in its nose.
+- name: Chicken
+  description: A white chicken with a red comb.
+- name: Horse
+  description: A brown horse with a white mane and tail.
+```

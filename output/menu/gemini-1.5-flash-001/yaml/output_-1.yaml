@@ -1,0 +1,98 @@
+```yaml
+- name: BACON, EGG & CHEESE BISCUIT
+  description: null
+  price: '$3.19 $4.39'
+- name: EGG MCMUFFIN®
+  description: null
+  price: '$2.79 $3.99'
+- name: SAUSAGE MCMUFFIN®
+  description: null
+  price: '$1.19'
+- name: SAUSAGE MCMUFFIN® WITH EGG
+  description: null
+  price: '$4.19'
+- name: SAUSAGE BISCUIT
+  description: null
+  price: '$2.99'
+- name: SAUSAGE BISCUIT WITH EGG
+  description: null
+  price: '$2.79 $3.99'
+- name: BACON, EGG & CHEESE MCGRIDDLES®
+  description: null
+  price: '$3.29 $4.49'
+- name: SAUSAGE MCGRIDDLES®
+  description: null
+  price: '$2.79 $4.49'
+- name: SAUSAGE, EGG & CHEESE MCGRIDDLES®
+  description: null
+  price: '$3.29 $4.49'
+- name: BIG BREAKFASTⓇ
+  description: null
+  price: '$3.69'
+- name: BIG BREAKFAST® WITH HOTCAKES
+  description: null
+  price: '$5.49'
+- name: HOTCAKES
+  description: null
+  price: '$2.49'
+- name: HOTCAKES AND SAUSAGE
+  description: null
+  price: '$3.19'
+- name: SAUSAGE BURRITO
+  description: null
+  price: '$2.39 $4.29'
+- name: HASH BROWNS
+  description: null
+  price: '$1.09'
+- name: FRUIT & MAPLE OATMEAL
+  description: null
+  price: '$1.99'
+- name: MCRIBⓇ
+  description: null
+  price: '$3.69 $7.49'
+- name: BIG MAC®
+  description: null
+  price: '$3.99 $5.99'
+- name: QUARTER POUNDER® WITH CHEESE
+  description: null
+  price: '$3.79 $5.79'
+- name: DOUBLE QUARTER POUNDER® WITH CHEESE
+  description: null
+  price: '$4.79 $6.69'
+- name: QUARTER POUNDER® WITH CHEESE DELUXE
+  description: null
+  price: '$5.29 $8.69'
+- name: MCDOUBLE®
+  description: null
+  price: '$2.52'
+- name: QUARTER POUNDER® WITH CHEESE BACON
+  description: null
+  price: '$5.99 $8.99'
+- name: CHEESEBURGER
+  description: null
+  price: '$2.79 $6.59'
+- name: DOUBLE CHEESEBURGER
+  description: null
+  price: '$2.59'
+- name: HAMBURGER: THE CLASSIC MCDONALD'S BURGER
+  description: null
+  price: '$2.49'
+- name: CRISPY CHICKEN SANDWICH
+  description: null
+  price: '$4.29 $7.49'
+- name: DELUXE CRISPY CHICKEN SANDWICH
+  description: null
+  price: '$4.89 $7.99'
+- name: SPICY CHICKEN SANDWICH
+  description: null
+  price: '$4.49 $7.59'
+- name: SPICY DELUXE CRISPY CHICKEN SANDWICH
+  description: null
+  price: '$4.99 $7.99'
+- name: FILET-O-FISH®
+  description: null
+  price: '$3.79 $5.79'
+- name: MCCHICKEN®
+  description: null
+  price: '$2.49'
+```

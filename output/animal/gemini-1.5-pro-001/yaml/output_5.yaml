@@ -1,0 +1,12 @@
+---
+- animal: stork
+  description: A large, long-legged wading bird with a long neck and a long bill.
+- animal: duck
+  description: A waterbird with a broad flat bill, webbed feet, and a short neck.
+- animal: eagle
+  description: A large, powerful bird of prey with a heavy head and beak.
+- animal: hummingbird
+  description: A small bird with a long, slender bill and a long tongue, known for its ability to hover in midair.
+- animal: puffin
+  description: A small black and white seabird with a large, colorful beak. 
+---

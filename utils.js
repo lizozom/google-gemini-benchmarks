@@ -1,4 +1,6 @@
 import fs from 'fs';
+import path from 'path';
+import { stringify } from 'csv';
 import YAML from 'yaml';
 
 export const readFileAsBase64 = (filePath) => {
@@ -24,13 +26,36 @@ export const parseOutput = (content, outputFormat) => {
       content = content.replace(/```json/g, '').replace(/```/g, '').replace(/\\n/g, '');
       return JSON.parse(content);
     } else if (outputFormat === 'yaml') {
-      content = content.replace(/```yaml/g, '').replace(/```/g, '').replace(/---/g, "");
+      content = content.replace(/```yaml/g, '').replace(/```/g, '').replace(/---/g, "").replace(/.../g, "");
       return YAML.parse(content, { uniqueKeys: false, strict: false });
     } else {
       return content;
     }
   } catch (error) {
     console.log(content);
-    throw error;
+    return null;
   }
+}
+
+export const convertToCSV = async (data) => {
+  return new Promise((resolve, reject) => {
+    stringify(data, {
+      header: true
+    }, (err, output) => {
+      if (err) {
+        reject(err);
+      } else {
+        resolve(output);
+      }
+    });
+  });
+};
+
+export function ensureDirectoryExistence(filePath) {
+  var dirname = path.dirname(filePath);
+  if (fs.existsSync(dirname)) {
+    return true;
+  }
+  ensureDirectoryExistence(dirname);
+  fs.mkdirSync(dirname);
 }

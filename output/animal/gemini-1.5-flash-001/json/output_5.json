@@ -1,0 +1,24 @@
+```json
+[
+  {
+    "name": "Pig",
+    "description": "A pink pig with a curly tail."
+  },
+  {
+    "name": "Cow",
+    "description": "A brown cow with white markings."
+  },
+  {
+    "name": "Bull",
+    "description": "A red bull with black horns."
+  },
+  {
+    "name": "Chicken",
+    "description": "A white chicken with a red comb."
+  },
+  {
+    "name": "Horse",
+    "description": "A brown horse with a black mane."
+  }
+]
+```

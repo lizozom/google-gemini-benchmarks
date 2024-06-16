@@ -1,0 +1,42 @@
+[
+    {
+        "animal": "Heron",
+        "description": "A long-legged freshwater and coastal bird with a long beak"
+    },
+    {
+        "animal": "Mallard",
+        "description": "A common wild duck with a green head and a yellow bill"
+    },
+    {
+        "animal": "Eagle",
+        "description": "A large, powerful bird of prey with a heavy head and beak"
+    },
+    {
+        "animal": "Hummingbird",
+        "description": "A small bird with a long, thin beak and the ability to hover in mid-air"
+    },
+    {
+        "animal": "Puffin",
+        "description": "A seabird with a black and white body and a large, colorful beak"
+    },
+    {
+        "animal": "Kiwi",
+        "description": "A flightless bird native to New Zealand"
+    },
+    {
+        "animal": "Sheep",
+        "description": "A domesticated ruminant animal with a thick woolly coat"
+    },
+    {
+        "animal": "Pig",
+        "description": "A domesticated animal with a stout body, short legs, and a snout"
+    },
+    {
+        "animal": "Cow",
+        "description": "A domesticated bovine animal used for milk, meat, and leather"
+    },
+    {
+        "animal": "Bull",
+        "description": "An uncastrated male bovine animal"
+    }
+]

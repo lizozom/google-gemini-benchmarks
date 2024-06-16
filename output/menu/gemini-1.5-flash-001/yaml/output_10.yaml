@@ -1,0 +1,32 @@
+```yaml
+- name: MCRIB®
+  description: null
+  price: 3.69
+- name: BIG MAC®
+  description: null
+  price: 3.99
+- name: QUARTER POUNDER® WITH CHEESE
+  description: null
+  price: 3.79
+- name: DOUBLE QUARTER POUNDER® WITH CHEESE
+  description: null
+  price: 4.79
+- name: QUARTER POUNDER® WITH CHEESE DELUXE
+  description: null
+  price: 5.29
+- name: MCDOUBLE®
+  description: null
+  price: 2.52
+- name: QUARTER POUNDER® WITH CHEESE BACON
+  description: null
+  price: 5.99
+- name: CHEESEBURGER
+  description: null
+  price: 2.79
+- name: DOUBLE CHEESEBURGER
+  description: null
+  price: 2.59
+- name: HAMBURGER: THE CLASSIC MCDONALD'S BURGER
+  description: null
+  price: 2.49
+```

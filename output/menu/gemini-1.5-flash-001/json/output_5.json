@@ -1,0 +1,29 @@
+```json
+[
+  {
+    "name": "MCRIBⓇ",
+    "description": null,
+    "price": "3.69"
+  },
+  {
+    "name": "BIG MAC®",
+    "description": null,
+    "price": "3.99"
+  },
+  {
+    "name": "QUARTER POUNDER® WITH CHEESE",
+    "description": null,
+    "price": "3.79"
+  },
+  {
+    "name": "DOUBLE QUARTER POUNDER® WITH CHEESE",
+    "description": null,
+    "price": "4.79"
+  },
+  {
+    "name": "QUARTER POUNDER® WITH CHEESE DELUXE",
+    "description": null,
+    "price": "5.29"
+  }
+]
+```

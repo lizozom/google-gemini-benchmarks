@@ -1,0 +1,44 @@
+```json
+[
+  {
+    "name": "Stork",
+    "description": "A large, long-legged bird with a long bill"
+  },
+  {
+    "name": "Duck",
+    "description": "A water bird with a flat bill and webbed feet"
+  },
+  {
+    "name": "Hawk",
+    "description": "A bird of prey with sharp talons and a hooked beak"
+  },
+  {
+    "name": "Hummingbird",
+    "description": "A small, brightly colored bird known for its hovering flight"
+  },
+  {
+    "name": "Puffin",
+    "description": "A seabird with a colorful bill and a black and white body"
+  },
+  {
+    "name": "Kiwi",
+    "description": "A flightless bird native to New Zealand with a long beak and brown feathers"
+  },
+  {
+    "name": "Sheep",
+    "description": "A domesticated mammal with curly wool"
+  },
+  {
+    "name": "Pig",
+    "description": "A domesticated mammal with a short snout and curly tail"
+  },
+  {
+    "name": "Cow",
+    "description": "A domesticated mammal with a large body and four stomachs"
+  },
+  {
+    "name": "Bull",
+    "description": "A male cow"
+  }
+]
+```

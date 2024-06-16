@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Heron",
+        "description": "A long-legged wading bird with a long neck and a long, sharp beak."
+    },
+    {
+        "name": "Duck",
+        "description": "A water bird with a flat beak, webbed feet, and a short tail."
+    },
+    {
+        "name": "Eagle",
+        "description": "A large, powerful bird of prey with a heavy head and beak."
+    },
+    {
+        "name": "Hummingbird",
+        "description": "A small, brightly colored bird with a long, slender beak."
+    },
+    {
+        "name": "Puffin",
+        "description": "A small, black and white seabird with a large, colorful beak."
+    }
+]

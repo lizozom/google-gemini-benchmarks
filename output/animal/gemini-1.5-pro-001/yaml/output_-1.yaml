@@ -1,0 +1,277 @@
+---
+- animal:
+    name: Stork
+    description: A large, long-legged, long-necked wading bird with a long stout bill
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/stork-18-825630.png
+- animal:
+    name: Mallard
+    description: A common and widespread duck
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/mallard-18-825631.png
+- animal:
+    name: Eagle
+    description: A large, powerfully built bird of prey
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/eagle-18-825632.png
+- animal:
+    name: Hummingbird
+    description: A small bird with a long, thin bill and the ability to hover in the air
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/hummingbird-18-825633.png
+- animal:
+    name: Puffin
+    description: A small black and white seabird with a large, colorful beak
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/puffin-18-825634.png
+- animal:
+    name: Kiwi
+    description: A flightless bird native to New Zealand
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/kiwi-18-825635.png
+- animal:
+    name: Sheep
+    description: A domesticated ruminant animal with a thick woolly coat
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/sheep-18-825636.png
+- animal:
+    name: Pig
+    description: An omnivorous domesticated mammal with a stout body, short legs, and a snout for rooting in the soil
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/pig-18-825637.png
+- animal:
+    name: Cow
+    description: A fully grown female animal of a domesticated breed of ox
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/cow-18-825638.png
+- animal:
+    name: Bull
+    description: An uncastrated male bovine animal
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/bull-18-825639.png
+- animal:
+    name: Chicken
+    description: A domesticated fowl kept for its eggs or meat
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/chicken-18-825640.png
+- animal:
+    name: Horse
+    description: A large, solid-hoofed herbivorous mammal, domesticated since prehistoric times
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/horse-18-825641.png
+- animal:
+    name: Dog
+    description: A domesticated carnivorous mammal of the family Canidae
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/dog-18-825642.png
+- animal:
+    name: Cat
+    description: A small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/cat-18-825643.png
+- animal:
+    name: Turtle
+    description: A reptile with a bony or leathery shell into which it can retract its head and limbs
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/turtle-18-825644.png
+- animal:
+    name: Fish
+    description: A limbless cold-blooded vertebrate animal with gills and fins living wholly in water
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/fish-18-825646.png
+- animal:
+    name: Dog
+    description: A domesticated carnivorous mammal of the family Canidae
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/dog-18-825647.png
+- animal:
+    name: Dog
+    description: A domesticated carnivorous mammal of the family Canidae
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/dog-18-825648.png
+- animal:
+    name: Seahorse
+    description: A small marine fish with a head and neck suggestive of a horse
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/seahorse-18-825649.png
+- animal:
+    name: Fish
+    description: A limbless cold-blooded vertebrate animal with gills and fins living wholly in water
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/fish-18-825650.png
+- animal:
+    name: Prawn
+    description: A small crustacean with a long, slender body and a laterally compressed abdomen
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/prawn-18-825651.png
+- animal:
+    name: Fish
+    description: A limbless cold-blooded vertebrate animal with gills and fins living wholly in water
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/fish-18-825652.png
+- animal:
+    name: Octopus
+    description: A cephalopod mollusc with eight sucker-bearing arms
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/octopus-18-825653.png
+- animal:
+    name: Dolphin
+    description: A small gregarious toothed whale with a beaklike snout
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/dolphin-18-825654.png
+- animal:
+    name: Whale
+    description: A very large marine mammal belonging to the order Cetacea
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/whale-18-825655.png
+- animal:
+    name: Bear
+    description: A large, heavy mammal with thick fur and a short tail
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/bear-18-825656.png
+- animal:
+    name: Rabbit
+    description: A small burrowing mammal with long ears, a short tail, and strong hind legs
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/rabbit-18-825657.png
+- animal:
+    name: Gorilla
+    description: A powerfully built great ape with a large head and short neck
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/gorilla-18-825658.png
+- animal:
+    name: Deer
+    description: A hoofed ruminant mammal with a slender neck, long legs, and antlers
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/deer-18-825659.png
+- animal:
+    name: Snail
+    description: A mollusc with a single spiral shell into which the whole body can be withdrawn
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/snail-18-825660.png
+- animal:
+    name: Worm
+    description: Any of a number of invertebrate animals with long, slender, soft bodies
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/worm-18-825661.png
+- animal:
+    name: Alligator
+    description: A large semiaquatic reptile similar to a crocodile but with a broader and shorter head
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/alligator-18-825662.png
+- animal:
+    name: Giraffe
+    description: A very tall African mammal with a long neck, long legs, and dark blotches on a yellowish coat
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/giraffe-18-825663.png
+- animal:
+    name: Leopard
+    description: A large, solitary cat with a yellowish coat marked with black rosettes
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/leopard-18-825664.png
+- animal:
+    name: Panda
+    description: A large black and white bear-like mammal native to China
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/panda-18-825665.png
+- animal:
+    name: Donkey
+    description: A hoofed mammal of the horse family, typically smaller than the horse with longer ears
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/donkey-18-825666.png
+- animal:
+    name: Unicorn
+    description: A mythical creature resembling a horse, with a single, often spiraling horn growing from its forehead
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/unicorn-18-825667.png
+- animal:
+    name: Bear
+    description: A large, heavy mammal with thick fur and a short tail
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/bear-18-825668.png
+- animal:
+    name: Wolf
+    description: A wild carnivorous mammal of the dog family, with a long bushy tail and an erect pointed muzzle
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/wolf-18-825669.png
+- animal:
+    name: Kangaroo
+    description: A large Australian marsupial with a long powerful tail and strongly developed hind limbs
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/kangaroo-18-825670.png
+- animal:
+    name: Frog
+    description: A tailless amphibian with a short squat body, moist smooth skin, and very long hind legs
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/frog-18-825671.png
+- animal:
+    name: Bat
+    description: A nocturnal flying mammal with wings formed by a membrane of skin
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/bat-18-825672.png
+- animal:
+    name: Rhinoceros
+    description: A very large, thick-skinned mammal with one or two horns on its snout
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/rhinoceros-18-825673.png
+- animal:
+    name: Badger
+    description: A heavily built omnivorous nocturnal mammal of the weasel family
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/badger-18-825674.png
+- animal:
+    name: Lion
+    description: A large tawny-coloured cat that lives in prides
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/lion-18-825675.png
+- animal:
+    name: Elephant
+    description: A very large, heavy mammal with a trunk, tusks, and large ears
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/elephant-18-825676.png
+- animal:
+    name: Bee
+    description: A stinging winged insect that collects nectar and pollen
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/bee-18-825677.png
+- animal:
+    name: Beehive
+    description: A structure in which bees live and produce honey
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/beehive-18-825678.png
+- animal:
+    name: Pig
+    description: An omnivorous domesticated mammal with a stout body, short legs, and a snout for rooting in the soil
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/pig-18-825679.png
+- animal:
+    name: Octopus
+    description: A cephalopod mollusc with eight sucker-bearing arms
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/octopus-18-825680.png
+- animal:
+    name: Crab
+    description: A crustacean with a broad carapace, stalked eyes, and five pairs of legs
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/crab-18-825681.png
+- animal:
+    name: Starfish
+    description: A marine echinoderm with a central disc and five or more radiating arms
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/starfish-18-825682.png
+- animal:
+    name: Grasshopper
+    description: A plant-eating insect with long hind legs that enable it to jump
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/grasshopper-18-825683.png
+- animal:
+    name: Ladybug
+    description: A small, rounded beetle with a brightly coloured shell
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/ladybug-18-825684.png
+- animal:
+    name: Fly
+    description: A two-winged insect of a large order that includes the housefly, mosquitoes, gnats, and midges
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/fly-18-825685.png
+- animal:
+    name: Bee
+    description: A stinging winged insect that collects nectar and pollen
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/bee-18-825686.png
+- animal:
+    name: Butterfly
+    description: An insect with two pairs of large, typically brightly coloured wings
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/butterfly-18-825687.png
+- animal:
+    name: Mosquito
+    description: A slender long-legged fly with aquatic larvae
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/mosquito-18-825688.png
+- animal:
+    name: Dragonfly
+    description: An insect with a long slender body, two pairs of wings, and large eyes
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/dragonfly-18-825689.png
+- animal:
+    name: Bee
+    description: A stinging winged insect that collects nectar and pollen
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/bee-18-825690.png
+- animal:
+    name: Beetle
+    description: An insect of an order distinguished by forewings typically modified into hard wing cases
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/beetle-18-825691.png
+- animal:
+    name: Spider
+    description: An eight-legged predatory arachnid with an unsegmented body
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/spider-18-825692.png
+- animal:
+    name: Beetle
+    description: An insect of an order distinguished by forewings typically modified into hard wing cases
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/beetle-18-825693.png
+- animal:
+    name: Spider
+    description: An eight-legged predatory arachnid with an unsegmented body
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/spider-18-825694.png
+- animal:
+    name: Bee
+    description: A stinging winged insect that collects nectar and pollen
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/bee-18-825695.png
+- animal:
+    name: Ant
+    description: A small insect, typically black, brown, or red, that lives in large colonies
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/ant-18-825696.png
+- animal:
+    name: Bird
+    description: A warm-blooded egg-laying vertebrate animal distinguished by the possession of feathers, wings, a beak, and typically by flight
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/bird-18-825697.png
+- animal:
+    name: Paw Print
+    description: The mark left by a paw, especially of a dog or cat
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/paw-print-18-825698.png
+- animal:
+    name: Shark
+    description: A long-bodied marine fish with a cartilaginous skeleton
+  image: https://cdn.iconscout.com/icon/premium/png-512-thumb/shark-18-825699.png

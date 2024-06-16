@@ -1,0 +1,54 @@
+```json
+[
+  {
+    "name": "BACON, EGG & CHEESE BISCUIT",
+    "description": null,
+    "price": "$3.19 $4.39"
+  },
+  {
+    "name": "EGG MCMUFFIN®",
+    "description": null,
+    "price": "$2.79 $3.99"
+  },
+  {
+    "name": "SAUSAGE MCMUFFIN®",
+    "description": null,
+    "price": "$1.19"
+  },
+  {
+    "name": "SAUSAGE MCMUFFIN® WITH EGG",
+    "description": null,
+    "price": "$4.19"
+  },
+  {
+    "name": "SAUSAGE BISCUIT",
+    "description": null,
+    "price": "$2.99"
+  },
+  {
+    "name": "SAUSAGE BISCUIT WITH EGG",
+    "description": null,
+    "price": "$2.79 $3.99"
+  },
+  {
+    "name": "BACON, EGG & CHEESE MCGRIDDLES®",
+    "description": null,
+    "price": "$3.29 $4.49"
+  },
+  {
+    "name": "SAUSAGE MCGRIDDLES®",
+    "description": null,
+    "price": "$2.79 $4.49"
+  },
+  {
+    "name": "SAUSAGE, EGG & CHEESE MCGRIDDLES®",
+    "description": null,
+    "price": "$3.29 $4.49"
+  },
+  {
+    "name": "BIG BREAKFAST®",
+    "description": null,
+    "price": "$3.69"
+  }
+]
+```

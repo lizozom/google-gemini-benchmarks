@@ -1,0 +1,22 @@
+```yaml
+- name: Pig
+  description: A pink pig with a curly tail.
+- name: Cow
+  description: A brown and white cow with horns.
+- name: Bull
+  description: A red bull with horns and a ring in its nose.
+- name: Chicken
+  description: A white chicken with a red comb and wattle.
+- name: Horse
+  description: A brown horse with a black mane and tail.
+- name: Dog
+  description: A brown and white dog with a wagging tail.
+- name: Cat
+  description: A black cat with green eyes.
+- name: Turtle
+  description: A green turtle with a brown shell.
+- name: Fish
+  description: A blue fish with a yellow fin.
+- name: Dog
+  description: A brown dog with a wagging tail.
+```

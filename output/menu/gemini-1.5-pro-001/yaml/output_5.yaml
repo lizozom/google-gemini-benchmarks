@@ -1,0 +1,17 @@
+---
+- item: BACON, EGG & CHEESE BISCUIT
+  description: null
+  price: '$3.19'
+- item: EGG MCMUFFIN®
+  description: null
+  price: '$2.79'
+- item: SAUSAGE MCMUFFIN®
+  description: null
+  price: '$1.19'
+- item: SAUSAGE MCMUFFIN® WITH EGG
+  description: null
+  price: '$4.19'
+- item: SAUSAGE BISCUIT
+  description: null
+  price: '$2.99'
+---

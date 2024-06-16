@@ -1,2 +1,4 @@
 node_modules
 
+output/output1.csv
+.env

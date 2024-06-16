@@ -1,0 +1,62 @@
+```yaml
+- name: Bacon, Egg & Cheese Biscuit
+  description: null
+  price: '$3.19 $4.39'
+- name: Egg McMuffin®
+  description: null
+  price: '$2.79 $3.99'
+- name: Sausage McMuffin®
+  description: null
+  price: '$1.19'
+- name: Sausage McMuffin® with Egg
+  description: null
+  price: '$4.19'
+- name: Sausage Biscuit
+  description: null
+  price: '$2.99'
+- name: Sausage Biscuit with Egg
+  description: null
+  price: '$2.79 $3.99'
+- name: Bacon, Egg & Cheese McGriddles®
+  description: null
+  price: '$3.29 $4.49'
+- name: Sausage McGriddles®
+  description: null
+  price: '$2.79 $4.49'
+- name: Sausage, Egg & Cheese McGriddles®
+  description: null
+  price: '$3.29 $4.49'
+- name: Big BreakfastⓇ
+  description: null
+  price: '$3.69'
+- name: Big Breakfast® with Hotcakes
+  description: null
+  price: '$5.49'
+- name: Hotcakes
+  description: null
+  price: '$2.49'
+- name: Hotcakes and Sausage
+  description: null
+  price: '$3.19'
+- name: Sausage Burrito
+  description: null
+  price: '$2.39 $4.29'
+- name: Hash Browns
+  description: null
+  price: '$1.09'
+- name: Fruit & Maple Oatmeal
+  description: null
+  price: '$1.99'
+- name: McRibⓇ
+  description: null
+  price: '$3.69 $7.49'
+- name: Big Mac®
+  description: null
+  price: '$3.99 $5.99'
+- name: Quarter Pounder® with Cheese
+  description: null
+  price: '$3.79 $5.79'
+- name: Double Quarter Pounder® with Cheese
+  description: null
+  price: '$4.79 $6.69'
+```

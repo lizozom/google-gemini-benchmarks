@@ -1,0 +1,78 @@
+[
+    {
+        "animal": "Heron",
+        "description": "Tall, long-legged wading bird with a long beak."
+    },
+    {
+        "animal": "Mallard",
+        "description": "Common wild duck with a distinctive green head (males)."
+    },
+    {
+        "animal": "Eagle",
+        "description": "Large, powerful bird of prey with a heavy head and beak."
+    },
+    {
+        "animal": "Hummingbird",
+        "description": "Tiny bird known for its ability to hover and fly backwards."
+    },
+    {
+        "animal": "Puffin",
+        "description": "Seabird with a colorful beak, often called the \"clown of the sea\"."
+    },
+    {
+        "animal": "Kiwi",
+        "description": "Flightless bird native to New Zealand."
+    },
+    {
+        "animal": "Sheep",
+        "description": "Domesticated ruminant animal raised for its wool, meat, and milk."
+    },
+    {
+        "animal": "Pig",
+        "description": "Domesticated even-toed ungulate often raised for its meat."
+    },
+    {
+        "animal": "Cow",
+        "description": "Domesticated ruminant animal often raised for its milk and meat."
+    },
+    {
+        "animal": "Bull",
+        "description": "Adult male bovine, typically used for breeding."
+    },
+    {
+        "animal": "Chicken",
+        "description": "Domesticated bird often raised for its eggs and meat."
+    },
+    {
+        "animal": "Horse",
+        "description": "Domesticated ungulate mammal often used for riding and transportation."
+    },
+    {
+        "animal": "Dog",
+        "description": "Domesticated carnivore often kept as a pet or working animal."
+    },
+    {
+        "animal": "Cat",
+        "description": "Domesticated carnivore often kept as a pet."
+    },
+    {
+        "animal": "Turtle",
+        "description": "Reptile with a protective shell."
+    },
+    {
+        "animal": "Fish",
+        "description": "Aquatic vertebrate with gills and fins."
+    },
+    {
+        "animal": "Fish",
+        "description": "Aquatic vertebrate with gills and fins."
+    },
+    {
+        "animal": "Dog",
+        "description": "Domesticated carnivore often kept as a pet or working animal."
+    },
+    {
+        "animal": "Dog",
+        "description": "Domesticated carnivore often kept as a pet or working animal."
+    }
+]

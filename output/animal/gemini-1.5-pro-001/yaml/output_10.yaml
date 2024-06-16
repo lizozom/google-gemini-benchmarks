@@ -1,0 +1,20 @@
+- animal: Heron
+  description: Large wading bird with long legs and neck
+- animal: Mallard
+  description: Common wild duck with a green head (male) or brown speckled body (female)
+- animal: Eagle
+  description: Large, powerful bird of prey with a heavy head and beak
+- animal: Hummingbird
+  description: Small bird known for its ability to hover and fly backwards
+- animal: Puffin
+  description: Seabird with a black and white body and a large, colorful beak
+- animal: Kiwi
+  description: Flightless bird native to New Zealand, known for its long beak and furry appearance
+- animal: Sheep
+  description: Domesticated ruminant animal raised for its wool, meat, and milk
+- animal: Pig
+  description: Domesticated animal raised for its meat
+- animal: Cow
+  description: Domesticated ruminant animal raised for its milk, meat, and leather
+- animal: Bull
+  description: Adult male bovine, typically used for breeding 

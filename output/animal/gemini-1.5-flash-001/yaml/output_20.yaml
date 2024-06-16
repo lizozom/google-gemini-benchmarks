@@ -1,0 +1,42 @@
+```yaml
+- name: Stork
+  description: A white stork with black wings and red beak.
+- name: Duck
+  description: A green duck with yellow beak.
+- name: Eagle
+  description: A brown eagle with white head and yellow beak.
+- name: Hummingbird
+  description: A pink hummingbird with red beak.
+- name: Puffin
+  description: A black and white puffin with orange beak.
+- name: Kiwi
+  description: A brown kiwi with long beak.
+- name: Sheep
+  description: A white sheep with black head.
+- name: Pig
+  description: A pink pig with curly tail.
+- name: Cow
+  description: A brown cow with white spots and black hooves.
+- name: Bull
+  description: A red bull with black horns.
+- name: Hen
+  description: A white hen with red comb.
+- name: Horse
+  description: A brown horse with black mane and tail.
+- name: Dog
+  description: A brown and white dog with floppy ears.
+- name: Cat
+  description: A black cat with green eyes.
+- name: Turtle
+  description: A green turtle with brown shell.
+- name: Fish
+  description: A blue fish with yellow fins.
+- name: Dog
+  description: A brown dog with red tongue.
+- name: Corgi
+  description: A brown and white corgi with floppy ears.
+- name: Seahorse
+  description: A yellow seahorse with orange tail.
+- name: Fish
+  description: An orange fish with yellow fins.
+```

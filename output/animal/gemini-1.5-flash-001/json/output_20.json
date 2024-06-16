@@ -1,0 +1,84 @@
+```json
+[
+  {
+    "name": "Stork",
+    "description": "A large, long-legged bird with a long beak."
+  },
+  {
+    "name": "Duck",
+    "description": "A common waterbird with a flat bill and webbed feet."
+  },
+  {
+    "name": "Eagle",
+    "description": "A large, powerful bird of prey with a heavy beak and strong talons."
+  },
+  {
+    "name": "Hummingbird",
+    "description": "A small bird known for its hovering flight and long, slender beak."
+  },
+  {
+    "name": "Puffin",
+    "description": "A small, black and white seabird with a colorful beak."
+  },
+  {
+    "name": "Kiwi",
+    "description": "A flightless bird native to New Zealand with a long, pointed beak."
+  },
+  {
+    "name": "Sheep",
+    "description": "A domesticated mammal with thick wool."
+  },
+  {
+    "name": "Pig",
+    "description": "A domesticated mammal known for its snout and curly tail."
+  },
+  {
+    "name": "Cow",
+    "description": "A domesticated mammal known for its milk and meat."
+  },
+  {
+    "name": "Bull",
+    "description": "A male cow."
+  },
+  {
+    "name": "Chicken",
+    "description": "A domesticated bird known for its eggs and meat."
+  },
+  {
+    "name": "Horse",
+    "description": "A domesticated mammal known for its strength and speed."
+  },
+  {
+    "name": "Dog",
+    "description": "A domesticated mammal known for its loyalty and companionship."
+  },
+  {
+    "name": "Cat",
+    "description": "A domesticated mammal known for its independence and hunting skills."
+  },
+  {
+    "name": "Turtle",
+    "description": "A reptile with a hard shell that protects its body."
+  },
+  {
+    "name": "Fish",
+    "description": "An aquatic animal with gills and fins."
+  },
+  {
+    "name": "Dog",
+    "description": "A domesticated mammal known for its loyalty and companionship."
+  },
+  {
+    "name": "Dog",
+    "description": "A domesticated mammal known for its loyalty and companionship."
+  },
+  {
+    "name": "Seahorse",
+    "description": "A fish with a horse-like head and a long, prehensile tail."
+  },
+  {
+    "name": "Fish",
+    "description": "An aquatic animal with gills and fins."
+  }
+]
+```
