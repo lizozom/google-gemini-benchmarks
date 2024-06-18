@@ -1,5 +1,7 @@
 ## Summary 
 
+![image](https://github.com/lizozom/google-gemini-benchmarks/assets/3016806/6f4023cf-ec44-41a1-8855-f47ad57d52a9)
+
 This project benchmarks the performance of the Gemini 1.5 models (Pro and Flash) when extracting a list of items from an image. The primary objective was to compare the performance of JSON vs. YAML as output formats.
 
 Key Findings
