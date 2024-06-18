@@ -1,37 +1,13 @@
-import path from 'path';
 import { stringify } from 'csv';
 import { createWriteStream } from 'fs';
 import dotenv from 'dotenv';
 
 import fs from 'fs';
-import { fileURLToPath } from 'url';
 import { VertexAI } from "@google-cloud/vertexai";
+import { tests, models, formats, outputFile, itemCount } from "./config.js";
 import { readFileAsBase64, sleep, parseOutput, ensureDirectoryExistence } from "./utils.js";
 
 dotenv.config();
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const menuPrompt = `Return all menu items in this image, including name, description and price.`
-const menuImage = path.join(__dirname, './images/McDonalds-menu.jpg');
-const animalPrompt = `Return all animals in this image, including name and description.`
-const animalImage = path.join(__dirname, './images/Animal Icons.jpg');
-const models = ['gemini-1.5-pro-001', 'gemini-1.5-flash-001'];
-const formats = ['json', 'yaml'];
-const outputFile = './output/output.csv'
-
-const tests = [
-    {
-        name: 'animal',
-        fileName: animalImage,
-        prompt: animalPrompt,
-    },
-    {
-        name: 'menu',
-        fileName: menuImage,
-        prompt: menuPrompt,
-    }
-];
 
 async function runImageTest(modelName, image, prompt, outputFormat, itemCount, retry = false) {
     try {
@@ -100,15 +76,13 @@ async function runImageTest(modelName, image, prompt, outputFormat, itemCount, r
 }
 
 async function main() {
-    // -1 means all items
-    const itemCount = [-1, 1, 5, 10, 20, ];
     const output = createWriteStream(outputFile);
     const stringifier = stringify({ header: true });
     stringifier.pipe(output);
 
     for (let test of tests) {
         const statsArr = [];
-        const { name, fileName, prompt, outputFile } = test;
+        const { name, fileName, prompt } = test;
         for (let modelName of models) {
             for (let count of itemCount) {
                 for (let format of formats) {
